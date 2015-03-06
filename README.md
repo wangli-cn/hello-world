@@ -1,4 +1,3 @@
 # hello-world
-just another repository
-Hi,humans,
-Wangli here, I like Node.js .
+
+Hi,humans,i'm here, I like Node.js .
